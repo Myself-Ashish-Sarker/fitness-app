@@ -1,0 +1,132 @@
+[
+    {
+        "id": 1,
+        "service_image": "https://example.com/service1.jpg",
+        "service_name": "Weightlifting Classes",
+        "service_description": "Build strength and muscle with expert guidance.",
+        "view_detail_button": "https://example.com/weightlifting_details",
+        "service_provider": {
+            "image": "https://example.com/provider1.jpg",
+            "name": "FitPro Gym"
+        },
+        "service_area": "Downtown",
+        "service_price": "$50/month"
+    },
+    {
+        "id": 2,
+        "service_image": "https://i.ibb.co/frb7GpV/Yoga-Sessions.jpg",
+        "service_name": "Yoga Sessions",
+        "service_description": "Relax your body and mind with our yoga classes.",
+        "view_detail_button": "https://example.com/yoga_details",
+        "service_provider": {
+            "image": "https://example.com/provider2.jpg",
+            "name": "Zen Fitness Studio"
+        },
+        "service_area": "Suburbs",
+        "service_price": "$40/session"
+    },
+    {
+        "id": 3,
+        "service_image": "https://example.com/service3.jpg",
+        "service_name": "Cardio Blast",
+        "service_description": "Burn calories and improve your cardiovascular health.",
+        "view_detail_button": "https://example.com/cardio_details",
+        "service_provider": {
+            "image": "https://example.com/provider3.jpg",
+            "name": "Fit & Fab Gym"
+        },
+        "service_area": "City Center",
+        "service_price": "$60/month"
+    },
+    {
+        "id": 4,
+        "service_image": "https://example.com/service4.jpg",
+        "service_name": "Pilates Workshops",
+        "service_description": "Strengthen your core and improve flexibility.",
+        "view_detail_button": "https://example.com/pilates_details",
+        "service_provider": {
+            "image": "https://example.com/provider4.jpg",
+            "name": "FlexiBody Pilates"
+        },
+        "service_area": "Downtown",
+        "service_price": "$55/session"
+    },
+    {
+        "id": 5,
+        "service_image": "https://example.com/service5.jpg",
+        "service_name": "CrossFit Training",
+        "service_description": "High-intensity functional fitness for all levels.",
+        "view_detail_button": "https://example.com/crossfit_details",
+        "service_provider": {
+            "image": "https://example.com/provider5.jpg",
+            "name": "CrossFit Central"
+        },
+        "service_area": "Suburbs",
+        "service_price": "$70/month"
+    },
+    {
+        "id": 6,
+        "service_image": "https://example.com/service6.jpg",
+        "service_name": "Bootcamp Sessions",
+        "service_description": "Get fit outdoors with our intense bootcamp workouts.",
+        "view_detail_button": "https://example.com/bootcamp_details",
+        "service_provider": {
+            "image": "https://example.com/provider6.jpg",
+            "name": "Fit Outdoors"
+        },
+        "service_area": "Parks",
+        "service_price": "$45/session"
+    },
+    {
+        "id": 7,
+        "service_image": "https://example.com/service7.jpg",
+        "service_name": "Zumba Dance Fitness",
+        "service_description": "Dance your way to fitness with energetic Zumba classes.",
+        "view_detail_button": "https://example.com/zumba_details",
+        "service_provider": {
+            "image": "https://example.com/provider7.jpg",
+            "name": "Zumba Zone"
+        },
+        "service_area": "City Center",
+        "service_price": "$30/session"
+    },
+    {
+        "id": 8,
+        "service_image": "https://example.com/service8.jpg",
+        "service_name": "Spinning Classes",
+        "service_description": "Burn calories and boost endurance with indoor cycling.",
+        "view_detail_button": "https://example.com/spinning_details",
+        "service_provider": {
+            "image": "https://example.com/provider8.jpg",
+            "name": "SpinHub"
+        },
+        "service_area": "Suburbs",
+        "service_price": "$25/session"
+    },
+    {
+        "id": 9,
+        "service_image": "https://example.com/service9.jpg",
+        "service_name": "MMA Training",
+        "service_description": "Learn mixed martial arts techniques from experienced instructors.",
+        "view_detail_button": "https://example.com/mma_details",
+        "service_provider": {
+            "image": "https://example.com/provider9.jpg",
+            "name": "Fight Academy"
+        },
+        "service_area": "City Outskirts",
+        "service_price": "$80/month"
+    },
+    {
+        "id": 10,
+        "service_image": "https://example.com/service10.jpg",
+        "service_name": "Swimming Lessons",
+        "service_description": "Improve your swimming skills with personalized lessons.",
+        "view_detail_button": "https://example.com/swimming_details",
+        "service_provider": {
+            "image": "https://example.com/provider10.jpg",
+            "name": "Aquatic Academy"
+        },
+        "service_area": "Beachside",
+        "service_price": "$50/session"
+    }
+]

@@ -1,0 +1,13 @@
+.custom-box {
+    background-color: #005b96;
+    color: white;
+}
+
+.custom-box:focus {
+    outline: none;
+}
+
+.custom-box::placeholder {
+    color: white;
+}
+
